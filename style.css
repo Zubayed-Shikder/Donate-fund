@@ -1,0 +1,116 @@
+/* _________* Style for cover part///***** */
+.sec-1 {
+    background-image: url(images/donation13.jpg);
+    background-size: 1440px 670px;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-size: 100px;
+    color: white;
+    font-family: 'Aboreto', cursive;
+}
+
+.top-cover {
+    text-align: center;
+    padding: 10%;
+    color: white;
+
+}
+
+.a-button {
+    background-color: rgb(241, 162, 57);
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+    font-family: 'Aboreto', cursive;
+    font-family: 'Bebas Neue', cursive;
+}
+
+/* ----------------part two------------- */
+.sec-2 {
+    text-align: center;
+}
+
+.plan-text {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.d-plan {
+    border-bottom: red solid;
+    margin: 30px 30%;
+    padding: 30px;
+}
+
+.donet-money {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: #707070;
+}
+
+.money-option {
+    background-color: #FAFAFA;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#money-highlight {
+    border: red solid;
+    color: red;
+}
+
+/* our donate plan part */
+.donet-plan {
+    text-align: center;
+}
+
+.plan-heading {
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.plan-idea {
+    display: flex;
+    justify-content: space-between;
+}
+
+.plan-data {
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+#plan-data1 {
+    background-color: rgba(79, 157, 166, 0.1);
+}
+
+#plan-data2 {
+    background-color: rgba(255, 89, 89, 0.1);
+}
+
+#plan-data3 {
+    background-color: #FFF4D6;
+    ;
+}
+
+/* =======fotter design--------- */
+footer {
+    text-align: center;
+    color: whitesmoke;
+    height: 125px;
+    background-color: black;
+    margin: 0;
+}
+
+#ff {
+    font-family: 'Moon Dance', cursive;
+    font-size: 20px;
+}
+
+.fff {
+    color: rgb(241, 162, 57);
+
+}
