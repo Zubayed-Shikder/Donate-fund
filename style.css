@@ -96,6 +96,24 @@ h1 {
     ;
 }
 
+/* subsceibe-ooption */
+.sec-3 {
+    text-align: center;
+}
+
+.subscribe-option {
+    background-color: #FFF4D6;
+    height: 200px;
+    width: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 10px 375px;
+
+}
+
+.subs-123 {}
+
 /* =======fotter design--------- */
 footer {
     text-align: center;
